@@ -1,1 +1,1 @@
-A framework combining SNNs(spiking neural networks) with RL(Reinforcement Learning) to create a spiking actor model capable of learning optimal policies in D2D environments for efficient resource utilization.
+A framework for detecting collision and interference in device to device networks(D2D) using Reinforcement Learning.
