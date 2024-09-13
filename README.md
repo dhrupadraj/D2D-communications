@@ -1,0 +1,1 @@
+A framework combining SNNs(spiking neural networks) with RL(Reinforcement Learning) to create a spiking actor model capable of learning optimal policies in D2D environments for efficient resource utilization.
