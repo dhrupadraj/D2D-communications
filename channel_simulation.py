@@ -1,3 +1,13 @@
+# ===========================================================
+#  Copyright (c) 2025 Dhrupad
+#  License: Custom Non-Commercial, No Derivatives
+#
+#  Permission is granted to view and use this software for
+#  personal, academic, or research purposes only.
+#
+#  Commercial use, modification, or redistribution is prohibited.
+#  Contact: [dhraupad@gmail.com] | [https://www.linkedin.com/in/dhrupad-raj-rai-a2698024b/]
+# ===========================================================
 import numpy as np
 import json
 import matplotlib.pyplot as plt
